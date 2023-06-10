@@ -83,7 +83,7 @@ To run the Phone Book Web Server, follow these steps:
 2. Clone the repository or download the source code.
 3. Using IDE (Visual Studio is preferred):  
 3.1. Open the solution in your preferred IDE.   
-3.2. click "Build" to compile the solution.  
+3.2. Click "Build" to compile the solution.  
 3.2. Click "Run" to start the application.  
 4. Using CLI commands:  
 4.1. __dotnet restore__  
