@@ -1,0 +1,9 @@
+global using System.Threading.Tasks;
+global using System.Collections.Generic;
+global using System.Net;
+global using Xunit;
+global using Moq;
+global using Moq.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
